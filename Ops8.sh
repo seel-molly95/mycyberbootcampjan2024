@@ -5,7 +5,26 @@
 # To End the loop try pressing control z or control c
 # Stretch Goal:
 # Can you do this with an until loop to have it execute a specfic number of times?
-while [ 1 = 1 ] 
-do 
-ping facebook.com 
-done 
+
+x=1
+while [ $x = 1 ]
+do
+    ping facebook.com
+    echo "do you want to run again"
+    read x
+done
+
+
+
+
+
+X=1
+
+echo "Please enter web address"
+read website
+
+until [ $X = 3 ]
+do
+    ping  facebook.com
+    ((X++))
+done
