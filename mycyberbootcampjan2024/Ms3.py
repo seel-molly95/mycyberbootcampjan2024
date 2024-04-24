@@ -12,7 +12,6 @@ print(john, mary, adam)
 total_apples = john + mary + adam
 # print the value stored in total_apples to the console;
 print("total number of apples:")
-
 # experiment with your code: create new variables, assign different values to them, and perform various arithmetic operations on them (e.g., +, -, *, /, //, etc.). Try to print a string and an integer together on one line, e.g., "Total number of apples:" and total_apples.
 a = 31
 b = 5
