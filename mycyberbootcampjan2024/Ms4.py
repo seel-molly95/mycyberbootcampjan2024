@@ -27,6 +27,6 @@ os.system(command)
 
 #result = subprocess.run(["dir"], shell=True, capture_output=True, text=True)
 #print(result.stdout)
-#subprocess.run(["sudo", "bash", "-c", command])
+subprocess.run(["sudo", "bash", "-c", command])
 #i found this subpress answer on this site https://www.datacamp.com/tutorial/python-subprocess
 #this is the explination of the code: This code imports the subprocess module, which allows the execution of shell commands from within Python.
