@@ -1,8 +1,8 @@
 # mycyberbootcampjan2024
-1st
+
 hello world
 my name is molly
-testing
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=molly.seel" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+:wave:;+I'm+molly+seel!;" />
